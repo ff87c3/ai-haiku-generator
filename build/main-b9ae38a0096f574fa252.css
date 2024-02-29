@@ -1,2 +1,0 @@
-@import url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap);
-body,html{margin:0;padding:0;height:100%;width:100%;overflow:hidden;background-color:#e9e9e9}#generate-btn{position:fixed;bottom:1%;left:1%;font-size:1vw}#haiku-output{position:fixed;top:50%;left:50%;width:auto;height:auto;transform:translate(-50%, -50%);font-size:3vw;color:gray;font-family:"Open Sans",sans-serif;font-family:Arial,sans-serif}
